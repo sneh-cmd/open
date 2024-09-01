@@ -1,0 +1,17 @@
+.push{
+    margin: 0;
+    padding: 0;
+    width: 40%;
+    margin: auto;
+    background-color:darkgray;
+    padding: 1px;
+    text-align: center;
+}
+/* animation applied */
+.bob{
+    color: blueviolet;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    animation: 2s bounceIn alternate;
+}
